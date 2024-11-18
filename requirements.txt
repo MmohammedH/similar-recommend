@@ -1,7 +1,8 @@
-tensorflow 
 streamlit
-cv2
+numpy
+pickle-mixin
+tensorflow
+keras
+opencv-python-headless
+scikit-learn
 pillow
-pandas
-watchdog
-sci-kit learn
